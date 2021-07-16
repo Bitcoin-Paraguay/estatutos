@@ -2,7 +2,7 @@
 
 ## TITULO I - DENOMINACION, DOMICILIO, Y OBJETO SOCIAL
 
-**Artículo Primero:** Se constituye una asociación civil sin fin de lucro, de capacidad restringida, de conformidad al artículo 118 y concordantes del Código Civil, que se denominará "Asociación Bitcoin del Paraguay". La Asociación fue creada por Acta Constitutiva de fecha diez de julio de dos mil veinte y uno (10/07/2021).
+**Artículo Primero:** Se constituye una asociación civil sin fin de lucro, de capacidad restringida, de conformidad al artículo 118 y concordantes del Código Civil, que se denominará "Asociación Paraguaya del Blockchain". La Asociación fue creada por Acta Constitutiva de fecha diez y seis de julio de dos mil veinte y uno (16/07/2021).
 
 **Artículo Segundo:** La Asociación tiene su domicilio legal en la Ciudad de Asunción, Capital de la República del Paraguay, con capacidad de tener sub-sedes en diferentes localidades dentro de la República.
 
@@ -17,6 +17,7 @@
 - Promover el uso de las tecnologías de la información y comunicación y del blockchain en la administración pública.
 - Crear vínculos con entidades de fines similares, en el país o el extranjero
 - Promover la creación de redes informáticas comunitarias, y, en general, cualquier espacio de intercambio que permita compartir libremente información.
+- Desarrollar e implementar una organización autonoma distribuida con la tecnología existente donde se realicen las actividades de los asociados. 
 
 Para la consecución de sus fines, la Asociación podrá realizar cuantos actos lícitos le sean convenientes, en los límites fijados por estos estatutos.
 
