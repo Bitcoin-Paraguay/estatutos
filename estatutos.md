@@ -65,7 +65,7 @@ Salvo el caso de renuncia del socio, la pérdida de la calidad de asociado deber
 
 **Artículo Décimo Cuarto:** Puesto que la Asociación no persigue fines de lucro, los socios no tienen derecho al patrimonio de la Asociación ni a dividendos, ni a utilidades de ninguna especie.
 
-## TITULO IV - ADMINISTRACION Y DIRECCIÓN.
+## TITULO IV - ADMINISTRACION Y DIRECCIÓN
 
 **Artículo Décimo Quinto:** La Asociación será dirigida y administrada por una Comisión Directiva que estará compuesta por tres a cinco miembros titulares, según decisión de la Asamblea.
 
@@ -87,14 +87,14 @@ Todas las resoluciones deberán constar en actas debidamente rubricadas por el P
 
 **Artículo Décimo Octavo:** Son atribuciones de la Comisión Directiva:
 
-- promover la realización de actividades acordes con los fines de la asociación, 
+- promover la realización de actividades acordes con los fines de la asociación,
 - decidir sobre la admisión de nuevos socios,
-- decidir la afiliación de la asociación a otras entidades que persigan fines similares, 
-- contratar y remover a empleados, 
-- disponer del patrimonio de la asociación hasta el equivalente a diez salarios mínimos, 
+- decidir la afiliación de la asociación a otras entidades que persigan fines similares,
+- contratar y remover a empleados,
+- disponer del patrimonio de la asociación hasta el equivalente a diez salarios mínimos,
 - contratar préstamos hasta el equivalente a diez salarios mínimos
-- otorgar poderes a terceros para asuntos legales o administrativos, 
-- aceptar donaciones, legados y demás liberalidades, 
+- otorgar poderes a terceros para asuntos legales o administrativos,
+- aceptar donaciones, legados y demás liberalidades,
 - en general, realizar cualquier acto conducente a la realización de los fines de la asociación
 
 **Artículo Désimo Noveno:** Son funciones del Presidente:
@@ -170,4 +170,6 @@ Para la remoción de cualquiera de las autoridades será necesaria la presencia 
 
 **Artículo Trigésimo:** En caso de disolución, la Asamblea que hubiese tomado tal determinación nombrará a los liquidadores, quienes podrán ser o no socios, los que se desempeñarán de acuerdo a lo establecido en el Código Civil. La Asamblea que decida la disolución de la Asociación determinará el destino de sus bienes, los que deberán ser destinados a alguna obra de utilidad pública.
 
-**DISPOSICION TRANSITORIA.** Se faculta a los señores X,X,X, para que soliciten la protocolización de estos estatutos y su inscripción en los registros públicos correspondientes.-
+**DISPOSICION TRANSITORIA.** Se faculta a los señores Ricardo Manuel San Martin Herrera, Luis Carlos Benitez Aguilar y al Sr Jean Marie Nicolas Boissac Maldonado para que soliciten la protocolización de estos estatutos y su inscripción en los registros públicos correspondientes.-
+
+**DISPOSICION TRANSITORIA.** Se faculta al presidente electo Ricardo Manuel San Martin Herrera a invitar a socios que quieran colaborar en la redacción de las propuestas que se llevarán al Congreso. 
